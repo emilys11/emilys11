@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emilys11
-- 👀 I’m interested in making games!
+- 👀 I’m interested in making games and digital art!
 - 🌱 I’m currently learning Java games development and Unity!
 
 <!---
